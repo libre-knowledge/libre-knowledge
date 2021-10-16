@@ -1,0 +1,4 @@
+[submodule "文字轉語音 Text-to-Speech"]
+	path = 文字轉語音 Text-to-Speech
+	url = https://github.com/libre-knowledge/text-to-speech.git
+	ignore = dirty
