@@ -2,3 +2,7 @@
 	path = 文字轉語音 Text-to-Speech
 	url = https://github.com/libre-knowledge/text-to-speech.git
 	ignore = dirty
+[submodule "主題範本 Subject template"]
+	path = 主題範本 Subject template
+	url = https://github.com/libre-knowledge/subject-template.git
+	ignore = dirty

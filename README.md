@@ -7,6 +7,11 @@
 * [文字轉語音<br>Text-to-Speech](/text-to-speech/)  
   透過語音合成技術合成人類語音的技術
 
+## 工具<br>Utilities
+
+* [《自由知識協作平台》主題範本](/subject-template/)  
+  快速創建風格一致的《自由知識協作平台》主題
+
 ## 架構<br>Architecture
 
 * 使用 Git 版本控制系統進行版本控制與貢獻者追蹤
