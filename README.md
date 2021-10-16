@@ -4,7 +4,8 @@
 
 ## 主題<br>Subjects
 
-（待補）
+* [文字轉語音<br>Text-to-Speech](/text-to-speech/)  
+  透過語音合成技術合成人類語音的技術
 
 ## 架構<br>Architecture
 
