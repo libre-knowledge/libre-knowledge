@@ -6,3 +6,7 @@
 	path = 主題範本 Subject template
 	url = https://github.com/libre-knowledge/subject-template.git
 	ignore = dirty
+[submodule "專案管理 Project management"]
+	path = 專案管理 Project management
+	url = https://github.com/libre-knowledge/project-management.git
+	ignore = dirty
