@@ -4,6 +4,8 @@
 
 ## 主題<br>Subjects
 
+* [名稱解析<br>Name resolution](/name-resolution/)  
+  將主機、使用者、群組等實體的名稱解析為電腦能應用的數值
 * [文字轉語音<br>Text-to-Speech](/text-to-speech/)  
   透過語音合成技術合成人類語音的技術
 
