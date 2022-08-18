@@ -22,3 +22,7 @@
 	path = 持續整合 Continuous Integration(CI)
 	url = https://github.com/libre-knowledge/continuous-integration.git
 	ignore = dirty
+[submodule "自動化 Automation"]
+	path = 自動化 Automation
+	url = git@github.com:libre-knowledge/automation.git
+	ignore = dirty
