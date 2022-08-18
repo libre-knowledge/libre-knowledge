@@ -14,3 +14,7 @@
 	path = 名稱解析 Name resolution
 	url = https://github.com/libre-knowledge/name-resolution.git
 	ignore = dirty
+[submodule "檔案傳輸與同步 File Transmission and Synchronization"]
+	path = 檔案傳輸與同步 File Transmission and Synchronization
+	url = https://github.com/libre-knowledge/file-transmission-and-synchronization.git
+	ignore = dirty
