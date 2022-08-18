@@ -10,6 +10,10 @@
   管理專案內容、時程與相關議題，確保專案順利進行
 * [文字轉語音<br>Text-to-Speech](/text-to-speech/)  
   透過語音合成技術合成人類語音的技術
+* [名稱解析<br>Name resolution](/name-resolution/)  
+  將主機、使用者、群組等實體的名稱解析為電腦能應用的數值
+* [檔案傳輸與同步<br>File Transmission and Synchronization](/file-transmission-and-synchronization/)  
+  將檔案自來源傳送到目的地以及相關應用
 
 ## 工具<br>Utilities
 
