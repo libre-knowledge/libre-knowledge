@@ -18,3 +18,7 @@
 	path = 檔案傳輸與同步 File Transmission and Synchronization
 	url = https://github.com/libre-knowledge/file-transmission-and-synchronization.git
 	ignore = dirty
+[submodule "持續整合 Continuous Integration(CI)"]
+	path = 持續整合 Continuous Integration(CI)
+	url = https://github.com/libre-knowledge/continuous-integration.git
+	ignore = dirty
