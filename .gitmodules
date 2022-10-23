@@ -26,3 +26,7 @@
 	path = 自動化 Automation
 	url = https://github.com/libre-knowledge/automation.git
 	ignore = dirty
+[submodule "程式語言 Programming languages"]
+	path = 程式語言 Programming languages
+	url = https://github.com/libre-knowledge/programming-languages.git
+	ignore = dirty
