@@ -14,6 +14,8 @@
   將主機、使用者、群組等實體的名稱解析為電腦能應用的數值
 * [檔案傳輸與同步<br>File Transmission and Synchronization](/file-transmission-and-synchronization/)  
   將檔案自來源傳送到目的地以及相關應用
+* [版本控制<br>Version control](https://github.com/libre-knowledge/version-control)  
+  紀錄內容的變動歷程以滿足舊版回朔、責任釐清與部署／交付自動化等需求
 
 ## 工具<br>Utilities
 

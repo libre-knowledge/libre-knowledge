@@ -30,3 +30,6 @@
 	path = 程式語言 Programming languages
 	url = https://github.com/libre-knowledge/programming-languages.git
 	ignore = dirty
+[submodule "版本控制 Version control"]
+	path = 版本控制 Version control
+	url = https://github.com/libre-knowledge/version-control.git
