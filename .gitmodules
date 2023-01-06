@@ -33,3 +33,4 @@
 [submodule "版本控制 Version control"]
 	path = 版本控制 Version control
 	url = https://github.com/libre-knowledge/version-control.git
+	ignore = dirty
