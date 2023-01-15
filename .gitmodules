@@ -38,3 +38,7 @@
 	path = 資訊安全 Information security
 	url = https://gitlab.com/libre-knowledge/information-security.git
 	ignore = dirty
+[submodule "多媒體處理 Multimedia processing"]
+	path = 多媒體處理 Multimedia processing
+	url = git@gitlab.com:libre-knowledge/multimedia-processing.git
+	ignore = dirty
