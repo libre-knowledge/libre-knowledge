@@ -6,6 +6,8 @@
 
 * [名稱解析<br>Name resolution](/name-resolution/)  
   將主機、使用者、群組等實體的名稱解析為電腦能應用的數值
+* [作業系統<br>Operating Systems](https://gitlab.com/libre-knowledge/operating-systems)  
+  管理硬體資源並將其適當地提供給其上運行的應用程序的軟體集合
 * [專案管理<br>Project management](/project-management/)  
   管理專案內容、時程與相關議題，確保專案順利進行
 * [文字轉語音<br>Text-to-Speech](/text-to-speech/)  
