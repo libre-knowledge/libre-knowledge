@@ -40,7 +40,7 @@
 	ignore = dirty
 [submodule "多媒體處理 Multimedia processing"]
 	path = 多媒體處理 Multimedia processing
-	url = git@gitlab.com:libre-knowledge/multimedia-processing.git
+	url = https://gitlab.com/libre-knowledge/multimedia-processing.git
 	ignore = dirty
 [submodule "虛擬化 Virtualization"]
 	path = 虛擬化 Virtualization
