@@ -4,10 +4,20 @@
 
 ## 主題<br>Subjects
 
+* [自動化<br>Automation](https://gitlab.com/libre-knowledge/automation)  
+  減少人工操作與操作失誤的相關技術與解決方案
+* [持續整合<br>Continuous Integration(CI)](https://gitlab.com/libre-knowledge/continuous-integration)  
+  將所有工程師的軟體的工作內容持續整合到開發主線（mainline）的軟體工程方法，持續整合主要是為解決軟體進行系統整合時面臨的各項問題（如集成地獄（integration hell)）
 * [檔案傳輸與同步<br>File Transmission and Synchronization](/file-transmission-and-synchronization/)  
   將檔案自來源傳送到目的地以及相關應用
+* [資訊安全<br>Information security](https://gitlab.com/libre-knowledge/information-security)  
+  確保資訊系統不會受到未經授權的第三方破壞
+* [多媒體處理<br>Multimedia processing](https://gitlab.com/libre-knowledge/multimedia-processing)  
+  根據需求處理多媒體資料
 * [名稱解析<br>Name resolution](/name-resolution/)  
   將主機、使用者、群組等實體的名稱解析為電腦能應用的數值
+* [程式語言<br>Programming languages](https://gitlab.com/libre-knowledge/programming-languages)  
+  可以（於處理後）變成可以載入到電腦中並執行的程式的基底語言
 * [專案管理<br>Project management](/project-management/)  
   管理專案內容、時程與相關議題，確保專案順利進行
 * [文字轉語音<br>Text-to-Speech](/text-to-speech/)  
