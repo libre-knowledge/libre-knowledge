@@ -27,9 +27,11 @@
 * 使用 Git 版本控制系統進行版本控制與貢獻者追蹤
 * 使用 Git 子模組進行主題的拆分，讓使用者能夠只抓取/貢獻部份主題之內容
 
-## 內容政策<br>Content policy
+## 內容政策與授權條款<br>Content policy and licensing
 
 使用者所貢獻的內容主體必須使用遵從[開放定義(Open Definition)](https://opendefinition.org)或是 [Open Source Initiative](https://opensource.org/) 的授權條款
+
+如未指定則您的貢獻預設將使用 [Creative Commons 《姓名標示-相同方式分享》授權條款 4.0 版國際版本](https://creativecommons.org/licenses/by-sa/4.0) 或其任意更近期版本釋出供大眾於授權範圍內自由使用
 
 部份素材基於實務考量可以依[合理使用(fair use)原則](https://zh.wikipedia.org/zh-tw/合理使用)引入，但須**明確標註**素材的*著作權持有者*以及*來源*作為日後查核使用，如果您認為您的著作被錯誤地於本專案使用請透過[本專案的議題追蹤系統](https://github.com/libre-knowledge/libre-knowledge/issues)回報，我們會盡快透過適當地方式處理（降低商業侵襲可能、降低品質或是直接移除）
 
