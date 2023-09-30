@@ -31,7 +31,7 @@
 
 ## 工具<br>Utilities
 
-* [《自由知識協作平台》主題範本](/subject-template/)  
+* [《自由知識協作平台》主題範本](https://gitlab.com/libre-knowledge/gitlab-organization-templates/subject-template)  
   快速創建風格一致的《自由知識協作平台》主題
 
 ## 架構<br>Architecture
