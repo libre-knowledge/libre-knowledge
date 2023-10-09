@@ -8,7 +8,7 @@
 	ignore = dirty
 [submodule "專案管理 Project management"]
 	path = 專案管理 Project management
-	url = https://github.com/libre-knowledge/project-management.git
+	url = https://gitlab.com/libre-knowledge/project-management.git
 	ignore = dirty
 [submodule "名稱解析 Name resolution"]
 	path = 名稱解析 Name resolution

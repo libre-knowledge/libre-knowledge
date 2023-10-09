@@ -20,7 +20,7 @@
   管理硬體資源並將其適當地提供給其上運行的應用程序的軟體集合
 * [程式語言<br>Programming languages](https://gitlab.com/libre-knowledge/programming-languages)  
   可以（於處理後）變成可以載入到電腦中並執行的程式的基底語言
-* [專案管理<br>Project management](/project-management/)  
+* [專案管理<br>Project management](https://gitlab.com/libre-knowledge/project-management)  
   管理專案內容、時程與相關議題，確保專案順利進行
 * [文字轉語音<br>Text-to-Speech](/text-to-speech/)  
   透過語音合成技術合成人類語音的技術
