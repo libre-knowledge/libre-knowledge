@@ -7,6 +7,9 @@
 #
 # Copyright 2023 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
 do-static-analysis:
   stage: test
   needs: []
