@@ -1,10 +1,10 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: 自由知識協作平台 Libre Knowledge Collaboration Platform
-Upstream-Contact: 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
+Upstream-Contact: 自由知識協作平台議題追蹤系統 Libre Knowledge Collaboration Platform Issue Tracker <https://gitlab.com/libre-knowledge/libre-knowledge/-/issues>
 Source: https://gitlab.com/libre-knowledge/libre-knowledge
 
-# Sample paragraph, commented out:
-#
-# Files: src/*
-# Copyright: $YEAR $NAME <$CONTACT>
-# License: ...
+Files:
+ *README.md
+ */README.md
+Copyright: 2023 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
+License: CC-BY-SA-4.0+

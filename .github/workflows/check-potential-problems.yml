@@ -1,0 +1,48 @@
+# GitHub Actions workflow for checking potential problems in the project
+#
+# References:
+#
+# * Workflow syntax for GitHub Actions - GitHub Docs
+#   https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions
+#
+# Copyright 2022 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+name: Check potential problems in the project
+on:
+  - push
+jobs:
+  check-using-precommit:
+    name: Check potential problems using pre-commit
+    runs-on: ubuntu-22.04
+    env:
+      PIP_CACHE_DIR: ${{ github.workspace }}/.cache/pip
+      PRE_COMMIT_HOME: ${{ github.workspace }}/.cache/pre-commit
+    steps:
+      - name: Checking out content from repository
+        uses: actions/checkout@v4
+
+      - name: Configure PyPI data cache to speed up continuous integration
+        uses: actions/cache@v3
+        with:
+          key: ${{ runner.os }}-pip
+          path: ${{ env.PIP_CACHE_DIR }}
+
+      - name: >-
+          Configure pre-commit data cache to speed up continuous integration
+        uses: actions/cache@v3
+        with:
+          key: pre-commit|${{ env.PY }}|${{ hashFiles('.pre-commit-config.yaml') }}
+          path: ${{ env.PRE_COMMIT_HOME }}
+
+      - name: Running static analysis program
+        run: |
+          sudo ./continuous-integration/do-static-analysis.install-system-deps.sh
+          ./continuous-integration/do-static-analysis.sh
+
+      - name: Send CI result notification to the Telegram channel
+        uses: yanzay/notify-telegram@v0.1.0
+        if: always()
+        with:
+          chat: '@the_common_ci_results'
+          token: ${{ secrets.telegram_bot_api_token_ci }}
+          status: ${{ job.status }}

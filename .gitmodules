@@ -1,3 +1,12 @@
+# Git submodule definition file
+#
+# Reference:
+#
+# * Git - gitmodules Documentation
+#   https://git-scm.com/docs/gitmodules
+#
+# Copyright 2021 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
+# SPDX-License-Identifier: CC-BY-SA-4.0
 [submodule "文字轉語音 Text-to-Speech"]
 	path = 文字轉語音 Text-to-Speech
 	url = https://github.com/libre-knowledge/text-to-speech.git
