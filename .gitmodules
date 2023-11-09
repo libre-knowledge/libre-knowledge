@@ -59,7 +59,7 @@
 	path = 虛擬化 Virtualization
 	url = https://gitlab.com/libre-knowledge/virtualization.git
 	ignore = dirty
-[submodule "光學文字辨識 Optical Character Recognition"]
-	path = 光學文字辨識 Optical Character Recognition
+[submodule "光學字元辨識 Optical Character Recognition"]
+	path = 光學字元辨識 Optical Character Recognition
 	url = https://gitlab.com/libre-knowledge/ocr.git
 	ignore = dirty

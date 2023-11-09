@@ -18,7 +18,7 @@
   將主機、使用者、群組等實體的名稱解析為電腦能應用的數值
 * [作業系統<br>Operating Systems](https://gitlab.com/libre-knowledge/operating-systems)  
   管理硬體資源並將其適當地提供給其上運行的應用程序的軟體集合
-* [光學文字辨識<br>Optical Character Recognition](https://gitlab.com/libre-knowledge/ocr)  
+* [光學字元辨識<br>Optical Character Recognition](https://gitlab.com/libre-knowledge/ocr)  
   識別印刷或手寫的文字圖像並將其轉換成機器可編輯的文字格式
 * [程式語言<br>Programming languages](https://gitlab.com/libre-knowledge/programming-languages)  
   可以（於處理後）變成可以載入到電腦中並執行的程式的基底語言
