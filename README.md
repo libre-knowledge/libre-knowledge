@@ -4,6 +4,8 @@
 
 ## 主題<br>Subjects
 
+* [人工智慧 Artificial Intelligence(AI)](https://gitlab.com/libre-knowledge/artificial-intelligence)  
+  模擬人類智能，使機器具有學習、推理和解決問題的能力
 * [自動化<br>Automation](https://gitlab.com/libre-knowledge/automation)  
   減少人工操作與操作失誤的相關技術與解決方案
 * [持續整合<br>Continuous Integration(CI)](https://gitlab.com/libre-knowledge/continuous-integration)  
