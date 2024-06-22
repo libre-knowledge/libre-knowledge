@@ -67,3 +67,7 @@
 	path = 人工智慧 Artificial Intelligence(AI)
 	url = https://gitlab.com/libre-knowledge/artificial-intelligence.git
 	ignore = dirty
+[submodule "語音辨識 Speech recognition"]
+	path = 語音辨識 Speech recognition
+	url = https://gitlab.com/libre-knowledge/speech-recognition.git
+	ignore = dirty
