@@ -71,3 +71,7 @@
 	path = 語音辨識 Speech recognition
 	url = https://gitlab.com/libre-knowledge/speech-recognition.git
 	ignore = dirty
+[submodule "電腦產圖 Computer graphics"]
+	path = 電腦產圖 Computer graphics
+	url = https://gitlab.com/libre-knowledge/computer-graphics.git
+	ignore = dirty
