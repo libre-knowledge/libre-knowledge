@@ -4,7 +4,7 @@
 
 ## 主題<br>Subjects
 
-* [人工智慧 Artificial Intelligence(AI)](https://gitlab.com/libre-knowledge/artificial-intelligence)  
+* [人工智慧<br>Artificial Intelligence(AI)](https://gitlab.com/libre-knowledge/artificial-intelligence)  
   模擬人類智能，使機器具有學習、推理和解決問題的能力
 * [自動化<br>Automation](https://gitlab.com/libre-knowledge/automation)  
   減少人工操作與操作失誤的相關技術與解決方案
@@ -32,7 +32,7 @@
   透過語音合成技術合成人類語音的技術
 * [版本控制<br>Version control](https://github.com/libre-knowledge/version-control)  
   紀錄內容的變動歷程以滿足舊版回朔、責任釐清與部署／交付自動化等需求
-* [虛擬化 Virtualization](https://gitlab.com/libre-knowledge/virtualization)  
+* [虛擬化<br>Virtualization](https://gitlab.com/libre-knowledge/virtualization)  
   將一個或多個實體資源，如硬體、作業系統、應用程式或資料儲存，透過軟體技術的手段，將其抽象化、隔離化、統合化及自動化，形成一個或多個虛擬的資源，讓使用者可以彈性地使用和管理這些虛擬化的資源，並且可以在不影響其他虛擬化資源的情況下進行管理和配置
 
 ## 工具<br>Utilities
