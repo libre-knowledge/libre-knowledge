@@ -12,6 +12,8 @@
   將所有工程師的軟體的工作內容持續整合到開發主線（mainline）的軟體工程方法，持續整合主要是為解決軟體進行系統整合時面臨的各項問題（如集成地獄（integration hell)）
 * [檔案傳輸與同步<br>File Transmission and Synchronization](/file-transmission-and-synchronization/)  
   將檔案自來源傳送到目的地以及相關應用
+* [硬體描述語言<br>Hardware description languages](https://gitlab.com/libre-knowledge/hardware-description-languages)  
+  用來設計和描述電子電路的專門電腦語言
 * [資訊安全<br>Information security](https://gitlab.com/libre-knowledge/information-security)  
   確保資訊系統不會受到未經授權的第三方破壞
 * [多媒體處理<br>Multimedia processing](https://gitlab.com/libre-knowledge/multimedia-processing)  

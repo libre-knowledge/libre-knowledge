@@ -75,3 +75,7 @@
 	path = 電腦產圖 Computer graphics
 	url = https://gitlab.com/libre-knowledge/computer-graphics.git
 	ignore = dirty
+[submodule "硬體描述語言 Hardware description languages"]
+	path = 硬體描述語言 Hardware description languages
+	url = https://gitlab.com/libre-knowledge/hardware-description-languages.git
+	ignore = dirty
