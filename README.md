@@ -32,6 +32,8 @@
   識別音訊資料中的語音對應文字
 * [文字轉語音<br>Text-to-Speech](/text-to-speech/)  
   透過語音合成技術合成人類語音的技術
+* [時間管理<br>Time management](https://gitlab.com/libre-knowledge/time-management)  
+  有效地規劃和控制時間以提高工作效率和達成目標的技巧
 * [版本控制<br>Version control](https://github.com/libre-knowledge/version-control)  
   紀錄內容的變動歷程以滿足舊版回朔、責任釐清與部署／交付自動化等需求
 * [虛擬化<br>Virtualization](https://gitlab.com/libre-knowledge/virtualization)  

@@ -79,3 +79,7 @@
 	path = 硬體描述語言 Hardware description languages
 	url = https://gitlab.com/libre-knowledge/hardware-description-languages.git
 	ignore = dirty
+[submodule "時間管理 Time management"]
+	path = 時間管理 Time management
+	url = https://gitlab.com/libre-knowledge/time-management.git
+	ignore = dirty
