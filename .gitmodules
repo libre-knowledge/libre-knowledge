@@ -41,7 +41,7 @@
 	ignore = dirty
 [submodule "版本控制 Version control"]
 	path = 版本控制 Version control
-	url = https://github.com/libre-knowledge/version-control.git
+	url = https://gitlab.com/libre-knowledge/version-control.git
 	ignore = dirty
 [submodule "資訊安全 Information security"]
 	path = 資訊安全 Information security
