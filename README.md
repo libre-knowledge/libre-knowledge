@@ -8,6 +8,10 @@
   模擬人類智能，使機器具有學習、推理和解決問題的能力
 * [自動化<br>Automation](https://gitlab.com/libre-knowledge/automation)  
   減少人工操作與操作失誤的相關技術與解決方案
+* [電腦遊戲<br>Computer games](https://gitlab.com/libre-knowledge/computer-games)  
+  運行在類電腦（個人電腦、遊戲主機、可攜型遊戲機）上的遊戲作品
+* [電腦產圖<br>Computer graphics](https://gitlab.com/libre-knowledge/computer-graphics)  
+  經由電腦輔助以產生影像或圖像
 * [持續整合<br>Continuous Integration(CI)](https://gitlab.com/libre-knowledge/continuous-integration)  
   將所有工程師的軟體的工作內容持續整合到開發主線（mainline）的軟體工程方法，持續整合主要是為解決軟體進行系統整合時面臨的各項問題（如集成地獄（integration hell)）
 * [檔案傳輸與同步<br>File Transmission and Synchronization](/file-transmission-and-synchronization/)  
@@ -28,6 +32,8 @@
   識別印刷或手寫的文字圖像並將其轉換成機器可編輯的文字格式
 * [程式語言<br>Programming languages](https://gitlab.com/libre-knowledge/programming-languages)  
   可以（於處理後）變成可以載入到電腦中並執行的程式的基底語言
+* [專案託管<br>Project hosting](https://gitlab.com/libre-knowledge/project-hosting)  
+  用於管理和分享軟體開發專案及其資源的服務
 * [專案管理<br>Project management](https://gitlab.com/libre-knowledge/project-management)  
   管理專案內容、時程與相關議題，確保專案順利進行
 * [語音辨識<br>Speech recognition](https://gitlab.com/libre-knowledge/speech-recognition)  
