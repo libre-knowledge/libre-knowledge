@@ -7,91 +7,91 @@
 #
 # Copyright 2021 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
-[submodule "文字轉語音 Text-to-Speech"]
-	path = 文字轉語音 Text-to-Speech
-	url = https://github.com/libre-knowledge/text-to-speech.git
-	ignore = dirty
-[submodule "主題範本 Subject template"]
-	path = 主題範本 Subject template
-	url = https://gitlab.com/libre-knowledge/gitlab-organization-templates/subject-template.git
-	ignore = dirty
-[submodule "專案管理 Project management"]
-	path = 專案管理 Project management
-	url = https://gitlab.com/libre-knowledge/project-management.git
-	ignore = dirty
-[submodule "名稱解析 Name resolution"]
-	path = 名稱解析 Name resolution
-	url = https://github.com/libre-knowledge/name-resolution.git
-	ignore = dirty
-[submodule "檔案傳輸與同步 File Transmission and Synchronization"]
-	path = 檔案傳輸與同步 File Transmission and Synchronization
-	url = https://github.com/libre-knowledge/file-transmission-and-synchronization.git
-	ignore = dirty
-[submodule "持續整合 Continuous Integration(CI)"]
-	path = 持續整合 Continuous Integration(CI)
-	url = https://gitlab.com/libre-knowledge/continuous-integration.git
+[submodule "人工智慧 Artificial Intelligence(AI)"]
+	path = 人工智慧 Artificial Intelligence(AI)
+	url = https://gitlab.com/libre-knowledge/artificial-intelligence.git
 	ignore = dirty
 [submodule "自動化 Automation"]
 	path = 自動化 Automation
 	url = https://gitlab.com/libre-knowledge/automation.git
 	ignore = dirty
-[submodule "程式語言 Programming languages"]
-	path = 程式語言 Programming languages
-	url = https://gitlab.com/libre-knowledge/programming-languages.git
-	ignore = dirty
-[submodule "版本控制 Version control"]
-	path = 版本控制 Version control
-	url = https://gitlab.com/libre-knowledge/version-control.git
-	ignore = dirty
-[submodule "資訊安全 Information security"]
-	path = 資訊安全 Information security
-	url = https://gitlab.com/libre-knowledge/information-security.git
-	ignore = dirty
-[submodule "作業系統 Operating Systems"]
-	path = 作業系統 Operating Systems
-	url = https://gitlab.com/libre-knowledge/operating-systems.git
-	ignore = dirty
-[submodule "多媒體處理 Multimedia processing"]
-	path = 多媒體處理 Multimedia processing
-	url = https://gitlab.com/libre-knowledge/multimedia-processing.git
-	ignore = dirty
-[submodule "虛擬化 Virtualization"]
-	path = 虛擬化 Virtualization
-	url = https://gitlab.com/libre-knowledge/virtualization.git
-	ignore = dirty
-[submodule "光學字元辨識 Optical Character Recognition"]
-	path = 光學字元辨識 Optical Character Recognition
-	url = https://gitlab.com/libre-knowledge/ocr.git
-	ignore = dirty
-[submodule "人工智慧 Artificial Intelligence(AI)"]
-	path = 人工智慧 Artificial Intelligence(AI)
-	url = https://gitlab.com/libre-knowledge/artificial-intelligence.git
-	ignore = dirty
-[submodule "語音辨識 Speech recognition"]
-	path = 語音辨識 Speech recognition
-	url = https://gitlab.com/libre-knowledge/speech-recognition.git
+[submodule "電腦遊戲 Computer games"]
+	path = 電腦遊戲 Computer games
+	url = https://gitlab.com/libre-knowledge/computer-games.git
 	ignore = dirty
 [submodule "電腦產圖 Computer graphics"]
 	path = 電腦產圖 Computer graphics
 	url = https://gitlab.com/libre-knowledge/computer-graphics.git
 	ignore = dirty
+[submodule "持續整合 Continuous Integration(CI)"]
+	path = 持續整合 Continuous Integration(CI)
+	url = https://gitlab.com/libre-knowledge/continuous-integration.git
+	ignore = dirty
+[submodule "檔案傳輸與同步 File Transmission and Synchronization"]
+	path = 檔案傳輸與同步 File Transmission and Synchronization
+	url = https://github.com/libre-knowledge/file-transmission-and-synchronization.git
+	ignore = dirty
 [submodule "硬體描述語言 Hardware description languages"]
 	path = 硬體描述語言 Hardware description languages
 	url = https://gitlab.com/libre-knowledge/hardware-description-languages.git
 	ignore = dirty
-[submodule "時間管理 Time management"]
-	path = 時間管理 Time management
-	url = https://gitlab.com/libre-knowledge/time-management.git
+[submodule "資訊安全 Information security"]
+	path = 資訊安全 Information security
+	url = https://gitlab.com/libre-knowledge/information-security.git
+	ignore = dirty
+[submodule "標記語言 Markup languages"]
+	path = 標記語言 Markup languages
+	url = https://gitlab.com/libre-knowledge/markup-languages.git
+	ignore = dirty
+[submodule "多媒體處理 Multimedia processing"]
+	path = 多媒體處理 Multimedia processing
+	url = https://gitlab.com/libre-knowledge/multimedia-processing.git
+	ignore = dirty
+[submodule "名稱解析 Name resolution"]
+	path = 名稱解析 Name resolution
+	url = https://github.com/libre-knowledge/name-resolution.git
+	ignore = dirty
+[submodule "作業系統 Operating Systems"]
+	path = 作業系統 Operating Systems
+	url = https://gitlab.com/libre-knowledge/operating-systems.git
+	ignore = dirty
+[submodule "光學字元辨識 Optical Character Recognition"]
+	path = 光學字元辨識 Optical Character Recognition
+	url = https://gitlab.com/libre-knowledge/ocr.git
+	ignore = dirty
+[submodule "程式語言 Programming languages"]
+	path = 程式語言 Programming languages
+	url = https://gitlab.com/libre-knowledge/programming-languages.git
 	ignore = dirty
 [submodule "專案託管 Project hosting"]
 	path = 專案託管 Project hosting
 	url = https://gitlab.com/libre-knowledge/project-hosting.git
 	ignore = dirty
-[submodule "電腦遊戲 Computer games"]
-	path = 電腦遊戲 Computer games
-	url = https://gitlab.com/libre-knowledge/computer-games.git
+[submodule "專案管理 Project management"]
+	path = 專案管理 Project management
+	url = https://gitlab.com/libre-knowledge/project-management.git
 	ignore = dirty
-[submodule "標記語言 Markup languages"]
-	path = 標記語言 Markup languages
-	url = https://gitlab.com/libre-knowledge/markup-languages.git
+[submodule "語音辨識 Speech recognition"]
+	path = 語音辨識 Speech recognition
+	url = https://gitlab.com/libre-knowledge/speech-recognition.git
+	ignore = dirty
+[submodule "主題範本 Subject template"]
+	path = 主題範本 Subject template
+	url = https://gitlab.com/libre-knowledge/gitlab-organization-templates/subject-template.git
+	ignore = dirty
+[submodule "文字轉語音 Text-to-Speech"]
+	path = 文字轉語音 Text-to-Speech
+	url = https://github.com/libre-knowledge/text-to-speech.git
+	ignore = dirty
+[submodule "時間管理 Time management"]
+	path = 時間管理 Time management
+	url = https://gitlab.com/libre-knowledge/time-management.git
+	ignore = dirty
+[submodule "版本控制 Version control"]
+	path = 版本控制 Version control
+	url = https://gitlab.com/libre-knowledge/version-control.git
+	ignore = dirty
+[submodule "虛擬化 Virtualization"]
+	path = 虛擬化 Virtualization
+	url = https://gitlab.com/libre-knowledge/virtualization.git
 	ignore = dirty
