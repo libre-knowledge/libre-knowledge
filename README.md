@@ -16,6 +16,8 @@
   用來設計和描述電子電路的專門電腦語言
 * [資訊安全<br>Information security](https://gitlab.com/libre-knowledge/information-security)  
   確保資訊系統不會受到未經授權的第三方破壞
+* [標記語言<br>Markup languages](https://gitlab.com/libre-knowledge/markup-languages)  
+  透過標記(tag)來定義內容的呈現方式與結構的語言
 * [多媒體處理<br>Multimedia processing](https://gitlab.com/libre-knowledge/multimedia-processing)  
   根據需求處理多媒體資料
 * [名稱解析<br>Name resolution](/name-resolution/)  

@@ -91,3 +91,7 @@
 	path = 電腦遊戲 Computer games
 	url = https://gitlab.com/libre-knowledge/computer-games.git
 	ignore = dirty
+[submodule "標記語言 Markup languages"]
+	path = 標記語言 Markup languages
+	url = https://gitlab.com/libre-knowledge/markup-languages.git
+	ignore = dirty
