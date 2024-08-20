@@ -83,3 +83,7 @@
 	path = 時間管理 Time management
 	url = https://gitlab.com/libre-knowledge/time-management.git
 	ignore = dirty
+[submodule "專案託管 Project hosting"]
+	path = 專案託管 Project hosting
+	url = https://gitlab.com/libre-knowledge/project-hosting.git
+	ignore = dirty
