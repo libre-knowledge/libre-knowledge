@@ -24,7 +24,7 @@
   透過標記(tag)來定義內容的呈現方式與結構的語言
 * [多媒體處理<br>Multimedia processing](https://gitlab.com/libre-knowledge/multimedia-processing)  
   根據需求處理多媒體資料
-* [名稱解析<br>Name resolution](/name-resolution/)  
+* [名稱解析<br>Name resolution](https://github.com/libre-knowledge/name-resolution)  
   將主機、使用者、群組等實體的名稱解析為電腦能應用的數值
 * [作業系統<br>Operating Systems](https://gitlab.com/libre-knowledge/operating-systems)  
   管理硬體資源並將其適當地提供給其上運行的應用程序的軟體集合
@@ -38,7 +38,7 @@
   管理專案內容、時程與相關議題，確保專案順利進行
 * [語音辨識<br>Speech recognition](https://gitlab.com/libre-knowledge/speech-recognition)  
   識別音訊資料中的語音對應文字
-* [文字轉語音<br>Text-to-Speech](/text-to-speech/)  
+* [文字轉語音<br>Text-to-Speech](https://github.com/libre-knowledge/text-to-speech)  
   透過語音合成技術合成人類語音的技術
 * [時間管理<br>Time management](https://gitlab.com/libre-knowledge/time-management)  
   有效地規劃和控制時間以提高工作效率和達成目標的技巧
