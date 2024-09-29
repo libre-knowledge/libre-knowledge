@@ -38,6 +38,8 @@
   管理專案內容、時程與相關議題，確保專案順利進行
 * [語音辨識<br>Speech recognition](https://gitlab.com/libre-knowledge/speech-recognition)  
   識別音訊資料中的語音對應文字
+* [靜態網站產生器<br>Static site generators](https://gitlab.com/libre-knowledge/static-site-generators)  
+  使用特定輸入資料產生靜態網站頁面的工具
 * [文字轉語音<br>Text-to-Speech](https://github.com/libre-knowledge/text-to-speech)  
   透過語音合成技術合成人類語音的技術
 * [時間管理<br>Time management](https://gitlab.com/libre-knowledge/time-management)  
