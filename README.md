@@ -12,6 +12,8 @@
   運行在類電腦（個人電腦、遊戲主機、可攜型遊戲機）上的遊戲作品
 * [電腦產圖<br>Computer graphics](https://gitlab.com/libre-knowledge/computer-graphics)  
   經由電腦輔助以產生影像或圖像
+* [軟體配置管理<br>Configuration management](https://gitlab.com/libre-knowledge/configuration-management)  
+  一種用來控制、追蹤以及管理系統或產品的配置變更的系統化作法
 * [持續整合<br>Continuous Integration(CI)](https://gitlab.com/libre-knowledge/continuous-integration)  
   將所有工程師的軟體的工作內容持續整合到開發主線（mainline）的軟體工程方法，持續整合主要是為解決軟體進行系統整合時面臨的各項問題（如集成地獄（integration hell)）
 * [檔案傳輸與同步<br>File Transmission and Synchronization](/file-transmission-and-synchronization/)  

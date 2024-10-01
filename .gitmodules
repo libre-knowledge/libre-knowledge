@@ -99,3 +99,7 @@
 	path = 虛擬化 Virtualization
 	url = https://gitlab.com/libre-knowledge/virtualization.git
 	ignore = dirty
+[submodule "軟體配置管理 Configuration management"]
+	path = 軟體配置管理 Configuration management
+	url = https://gitlab.com/libre-knowledge/configuration-management.git
+	ignore = dirty
