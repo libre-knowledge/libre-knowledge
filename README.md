@@ -38,6 +38,8 @@
   用於管理和分享軟體開發專案及其資源的服務
 * [專案管理<br>Project management](https://gitlab.com/libre-knowledge/project-management)  
   管理專案內容、時程與相關議題，確保專案順利進行
+* [軟體散布<br>Software distribution](https://gitlab.com/libre-knowledge/software-distribution)  
+  將軟體交付給<ruby>終端使用者<rp>(</rp><rt>enduser</rt><rp>)</rp></ruby>的過程
 * [語音辨識<br>Speech recognition](https://gitlab.com/libre-knowledge/speech-recognition)  
   識別音訊資料中的語音對應文字
 * [靜態網站產生器<br>Static site generators](https://gitlab.com/libre-knowledge/static-site-generators)  
