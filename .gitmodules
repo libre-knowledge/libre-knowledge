@@ -23,6 +23,10 @@
 	path = 電腦產圖 Computer graphics
 	url = https://gitlab.com/libre-knowledge/computer-graphics.git
 	ignore = dirty
+[submodule "軟體配置管理 Configuration management"]
+	path = 軟體配置管理 Configuration management
+	url = https://gitlab.com/libre-knowledge/configuration-management.git
+	ignore = dirty
 [submodule "持續整合 Continuous Integration(CI)"]
 	path = 持續整合 Continuous Integration(CI)
 	url = https://gitlab.com/libre-knowledge/continuous-integration.git
@@ -102,8 +106,4 @@
 [submodule "虛擬化 Virtualization"]
 	path = 虛擬化 Virtualization
 	url = https://gitlab.com/libre-knowledge/virtualization.git
-	ignore = dirty
-[submodule "軟體配置管理 Configuration management"]
-	path = 軟體配置管理 Configuration management
-	url = https://gitlab.com/libre-knowledge/configuration-management.git
 	ignore = dirty
