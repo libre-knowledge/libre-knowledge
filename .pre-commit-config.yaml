@@ -5,7 +5,7 @@
 # This file is based on The Common Pre-commit Framework Configuration Template
 # https://github.com/Lin-Buo-Ren/common-precommit-config-template
 #
-# Copyright 2021 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
+# Copyright 2021 林博仁(Buo-ren, Lin) <buo.ren.lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
 
 repos:
@@ -35,16 +35,25 @@ repos:
   # Check Markdown documents with Markdownlint(Node.js variant)
   # https://github.com/DavidAnson/markdownlint
   - repo: https://github.com/igorshubovych/markdownlint-cli
-    rev: v0.23.2
+    rev: v0.34.0
     hooks:
       - id: markdownlint
 
   # Check REUSE compliance
   # https://reuse.software/
   - repo: https://github.com/fsfe/reuse-tool
-    rev: v1.0.0
+    rev: v4.0.3
     hooks:
       - id: reuse
+
+  # Check shell scripts with ShellCheck
+  # NOTE: ShellCheck must be available in the command search PATHs
+  # https://www.shellcheck.net/
+  # https://github.com/jumanjihouse/pre-commit-hooks#shellcheck
+  - repo: https://github.com/jumanjihouse/pre-commit-hooks
+    rev: 3.0.0
+    hooks:
+      - id: shellcheck
 
   # Check YAML files
   # https://github.com/adrienverge/yamllint
@@ -52,3 +61,15 @@ repos:
     rev: v1.30.0
     hooks:
       - id: yamllint
+
+  # Check EditorConfig style compliance
+  # https://github.com/editorconfig-checker/editorconfig-checker.python
+  - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
+    rev: 2.7.3
+    hooks:
+      - id: editorconfig-checker
+        alias: ec
+        exclude: |
+          (?ix)^(
+            LICENSES/.*
+          )$

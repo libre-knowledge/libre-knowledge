@@ -2,6 +2,9 @@
 
 促進基於[開放定義(Open Definition)](https://opendefinition.org)授權條款之知識類內容的協作
 
+<https://gitlab.com/libre-knowledge/libre-knowledge>  
+[![GitLab CI 持續整合流程狀態標章](https://gitlab.com/libre-knowledge/libre-knowledge/badges/main/pipeline.svg?ignore_skipped=true "點擊查看 GitLab CI 持續整合流程的運行狀態")](https://gitlab.com/libre-knowledge/libre-knowledge/-/commits/main) [![「檢查專案中的潛在問題」GitHub Actions 作業流程狀態標章](https://github.com/libre-knowledge/libre-knowledge/actions/workflows/check-potential-problems.yml/badge.svg "本專案使用 GitHub Actions 自動化檢查專案中的潛在問題")](https://github.com/libre-knowledge/libre-knowledge/actions/workflows/check-potential-problems.yml) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white "本專案使用 pre-commit 檢查專案中的潛在問題")](https://github.com/pre-commit/pre-commit) [![REUSE 規範遵從狀態標章](https://api.reuse.software/badge/gitlab.com/libre-knowledge/libre-knowledge "本專案遵從 REUSE 規範降低軟體授權合規成本")](https://api.reuse.software/info/gitlab.com/libre-knowledge/libre-knowledge)
+
 ## 主題<br>Subjects
 
 * [人工智慧<br>Artificial Intelligence(AI)](https://gitlab.com/libre-knowledge/artificial-intelligence)  
@@ -79,3 +82,9 @@
 
 * [The Open Definition - Open Definition - Defining Open in Open Data, Open Content and Open Knowledge](https://opendefinition.org/)
 * [Open license - Creative Commons](https://wiki.creativecommons.org/wiki/Open_license)
+
+---
+
+本主題為[自由知識協作平台](https://gitlab.com/libre-knowledge/libre-knowledge)的一部分，除部份特別標註（個別檔案標頭、[REUSE.toml](REUSE.toml)）之內容外允許公眾於授權範圍內自由使用
+
+如有任何問題，歡迎[議題追蹤系統](https://gitlab.com/libre-knowledge/libre-knowledge/-/issues)創建新議題反饋

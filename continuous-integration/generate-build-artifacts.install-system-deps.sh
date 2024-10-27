@@ -2,7 +2,7 @@
 # Install system dependencies required for generating the project
 # build artifacts
 #
-# Copyright 2023 林博仁(Buo-ren, Lin) <buo.ren.lin@gmail.com>
+# Copyright 2024 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
 
 set \
@@ -14,12 +14,12 @@ required_commands=(
     realpath
 )
 flag_dependency_check_failed=false
-for required_command in "${required_commands[@]}"; do
-    if ! command -v "${required_command}" >/dev/null; then
+for command in "${required_commands[@]}"; do
+    if ! command -v "${command}" >/dev/null; then
         flag_dependency_check_failed=true
         printf \
             'Error: Unable to locate the "%s" command in the command search PATHs.\n' \
-            "${required_command}" \
+            "${command}" \
             1>&2
     fi
 done
