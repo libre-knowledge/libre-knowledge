@@ -7,12 +7,6 @@
 #
 # Copyright 2024 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
-variables:
-  GIT_SUBMODULE_STRATEGY: recursive
-
-  # Limit fetch depth to reduce submodule checkout time
-  GIT_SUBMODULE_DEPTH: 1
-
 do-static-analysis:
   stage: test
   rules:
@@ -47,6 +41,11 @@ generate-build-artifacts:
   script:
     - ./continuous-integration/generate-build-artifacts.install-system-deps.sh
     - ./continuous-integration/generate-build-artifacts.sh
+  variables:
+    GIT_SUBMODULE_STRATEGY: recursive
+
+    # Limit fetch depth to reduce submodule checkout time
+    GIT_SUBMODULE_DEPTH: 1
 
 upload-release-assets:
   stage: deploy
