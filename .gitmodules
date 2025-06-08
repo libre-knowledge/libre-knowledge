@@ -53,7 +53,7 @@
 	ignore = dirty
 [submodule "名稱解析 Name resolution"]
 	path = 名稱解析 Name resolution
-	url = https://github.com/libre-knowledge/name-resolution.git
+	url = https://gitlab.com/libre-knowledge/name-resolution.git
 	ignore = dirty
 [submodule "作業系統 Operating Systems"]
 	path = 作業系統 Operating Systems

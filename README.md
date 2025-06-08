@@ -29,7 +29,7 @@
   透過標記(tag)來定義內容的呈現方式與結構的語言
 * [多媒體處理<br>Multimedia processing](https://gitlab.com/libre-knowledge/multimedia-processing)  
   根據需求處理多媒體資料
-* [名稱解析<br>Name resolution](https://github.com/libre-knowledge/name-resolution)  
+* [名稱解析<br>Name resolution](https://gitlab.com/libre-knowledge/name-resolution)  
   將主機、使用者、群組等實體的名稱解析為電腦能應用的數值
 * [作業系統<br>Operating Systems](https://gitlab.com/libre-knowledge/operating-systems)  
   管理硬體資源並將其適當地提供給其上運行的應用程序的軟體集合
